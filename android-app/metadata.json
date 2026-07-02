@@ -1,0 +1,6 @@
+{
+  "name": "Puente",
+  "description": "Puente de Conciliación Bancaria. Captura notificaciones y SMS para enviar a Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
