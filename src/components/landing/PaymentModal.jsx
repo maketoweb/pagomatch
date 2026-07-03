@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { supabase } from '../../../lib/supabase';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X, Copy, CheckCircle2, Loader2, Phone, CreditCard, Building2 } from 'lucide-react';
 import { supabase } from '../../../../lib/supabase';
